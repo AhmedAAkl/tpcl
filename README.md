@@ -2,7 +2,7 @@
 
 
 # 
-We provide the PyTorch implementation for [Task Progressive Curriculum Learning: Approach for Robust Visual Question Answering]() (BMVC 2025).
+We provide the PyTorch implementation for [Task Progressive Curriculum Learning: Approach for Robust Visual Question Answering](https://bmvc2025.bmva.org/proceedings/294/) (BMVC 2025).
 
 <p align="center">
 <img src="figures/TPCL_algorithm.jpg" alt="TPCL" width="90%" align=center />
