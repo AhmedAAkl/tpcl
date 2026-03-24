@@ -68,7 +68,16 @@ CUDA_VISIBLE_DEVICES=0 python test.py --dataroot data/vqacp2/ --img_root data/co
 
 ## Reference
 If you found this code is useful, please cite our paper:
-
+'''
+@inproceedings{Akl_2025_BMVC,
+author    = {Ahmed Akl and Abdelwahed Khamis and Zhe Wang and Ali Cheraghian and Sara Khalifa and Kewen Wang},
+title     = {Task Progressive Curriculum Learning for Robust Visual Question Answering},
+booktitle = {36th British Machine Vision Conference 2025, {BMVC} 2025, Sheffield, UK, November 24-27, 2025},
+publisher = {BMVA},
+year      = {2025},
+url       = {https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_294/paper.pdf}
+}
+'''
 
 ## Acknowledgements
 This repository contains code modified from [D-VQA](https://github.com/Zhiquan-Wen/D-VQA), thank you very much!
